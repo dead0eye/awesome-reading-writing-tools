@@ -226,30 +226,6 @@ Processing PDF documents on cloud servers requires continuous server bandwidth a
 
 If you only need page-level manipulation, PDF Arranger is by far the fastest and cleanest option for desktop users, featuring an intuitive grid of page thumbnails you can drag, rotate, and delete. For command-line users and automated scripts, pdfcpu and QPDF offer lightning-fast batch processing without launching a graphical window.
 
-## Changelog
-
-**v1.1.2** &mdash; 2026-09-11
-- Est. column checked against each project's history. Corrected: LibreOffice Draw 2010 (not 2011), Xournal++ 2011 (not 2013), PDF4QT 2018 (not 2019), PDF Mix Tool 2017 (not 2018) and Sioyek 2020 (not 2021).
-
-**v1.1.1** &mdash; 2026-09-10
-- Inkscape: licence corrected from GPL-3.0 to GPL-2.0-or-later. The project's own COPYING file states version 2 or later, with the javascript polyfills under CC0 and parts of src/3rdparty under LGPL or MPL. GitLab reports no licence at all for the repository because COPYING is a summary rather than a licence text, so this had to be read by hand.
-- Stirling-PDF: the entry said the self-hosted build was open source and unlimited. The project's README now describes itself as open-core, its free self-hosted plan is capped at five user accounts, and app/proprietary/, app/saas/ and engine/ all exist and carry a separate licence forbidding production use without a subscription. All PDF operations are still free, which is the part that matters here, and the entry now says exactly that instead.
-- LibreOffice Draw: recorded why GitHub reports GPL-3.0 for a project that publishes MPL-2.0 - the mirror still carries the legacy COPYING file from the OpenOffice.org lineage. The same note already existed on LibreOffice Writer in the converters list; it was missing here.
-
-**v1.1.0** &mdash; 2026-09-09
-- Full verification pass. Every homepage and repository link opened; every open source licence claim checked against the GitHub or GitLab API.
-- PDF Mix Tool's homepage was returning 404 - its GitLab Pages site has gone. The link now points at the GitLab project, which is active and is also the Flathub source.
-- internalLink replaced. It pointed at getfreeebooks.com/desktop-ebook-readers, which returns 404 because that list is not published yet, so the link would have shipped broken.
-- Stirling-PDF: the hosted service at stirling.com now has a free tier capped at 500 monthly credits with paid processing beyond it. The self-hosted build is unaffected and remains free and unlimited, which is what this list recommends - the entry now says so explicitly rather than describing the project as simply free.
-- Stirling-PDF licence caveat retained: MIT overall, with separate proprietary/SaaS licences on some directories, which is why GitHub reports the licence as unrecognised.
-- signals blocks populated for all 13 entries that have a repository. None is archived and all have commits within the last five weeks.
-- LibreOffice Draw's MPL-2.0 checked and left alone - the GitHub mirror mis-reports GPL-3.0, but the project's own licence page states MPL-2.0.
-- NOT verified: whether the two freeware entries, PDF24 Creator and PDFgear, watermark output or limit use in practice. Both are closed source and would need installing to test.
-
-**v1.0.0** &mdash; 2026-09-08
-- First publication with 12 PDF editors and annotators plus 3 near-misses.
-- Seeded from verified repository research covering desktop page managers, form fillers, stylus annotators, OCR engines, direct text editors, and self-hosted web suites.
-
 ---
 
 Found something missing or out of date? [Open an issue](https://github.com/dead0eye/awesome-reading-writing-tools/issues) or see [CONTRIBUTING](../CONTRIBUTING.md).  
