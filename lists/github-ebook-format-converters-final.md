@@ -185,22 +185,6 @@ For Kindle, convert to AZW3 or EPUB with Calibre - modern Kindles accept EPUB di
 
 No. Everything here converts files you are already entitled to convert. DRM-locked purchases are outside the scope of this list, and we do not link to or name tools for removing it.
 
-## Changelog
-
-**v1.1.1** &mdash; 2026-09-11
-- Est. column checked against each project's history. Corrected: VERT 2024 (not 2025), kepubify 2017 (not 2019) and LibreOffice Writer 2010 (not 2011 - LibreOffice was founded in 2010, before its first release).
-
-**v1.1.0** &mdash; 2026-09-09
-- Full verification pass. Every homepage and repository link opened and returning 200; every licence claim checked against the GitHub API.
-- internalLink added - the field was empty, which is a publishing gate.
-- signals blocks populated for the 10 entries hosted on a git platform. k2pdfopt has none by design: it has no public repository, which its row already explains.
-- willus.com (k2pdfopt) returns 406 to a plain request and 200 to a browser - it blocks non-browser user agents rather than being unavailable.
-- NOT verified: whether each tool installs and runs, and the real-world quality of any particular conversion.
-
-**v1.0.0** &mdash; 2026-09-09
-- First research pass. Every repository checked against the GitHub or GitLab API for licence, archive status and last commit date.
-- Nine main entries rather than ten: the honest free bench for offline conversion is small, and the alternative was padding with upload sites or with wrappers around Calibre's own engine.
-
 ---
 
 Found something missing or out of date? [Open an issue](https://github.com/dead0eye/awesome-reading-writing-tools/issues) or see [CONTRIBUTING](../CONTRIBUTING.md).  
