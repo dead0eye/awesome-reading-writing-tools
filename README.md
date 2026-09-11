@@ -20,26 +20,26 @@ Comparison lists of free and open source software for reading, writing, converti
 
 | List | Tools | Open source | Version | Updated |
 |---|---:|---:|---|---|
-| **[Ebook Management Apps](lists/github-ebook-management-apps-final.md)**<br><sub>Organise, tag, convert and sync a personal ebook library without paying anyone.</sub> | 11 | 10 | v1.1.1 | 2026-09-11 |
+| **[Ebook Management Apps](lists/github-ebook-management-apps-final.md)**<br><sub>Organise, tag, convert and sync a personal ebook library without paying anyone.</sub> | 11 | 10 | v1.1.1 | 11-Sept-2026 |
 
 ### Reading
 
 | List | Tools | Open source | Version | Updated |
 |---|---:|---:|---|---|
-| **[Ebook Readers for Desktop](lists/github-desktop-ebook-readers-final.md)**<br><sub>Distraction-free EPUB, MOBI and PDF reading software for Windows, macOS and Linux</sub> | 12 | 12 | v1.0.0 | Coming soon |
+| **[Ebook Readers for Desktop](lists/github-desktop-ebook-readers-final.md)**<br><sub>Distraction-free EPUB, MOBI and PDF reading software for Windows, macOS and Linux</sub> | 12 | 12 | v1.0.0 | 11-Sept-2026 |
 
 ### Utility
 
 | List | Tools | Open source | Version | Updated |
 |---|---:|---:|---|---|
-| **[Ebook Format Converters](lists/github-ebook-format-converters-final.md)**<br><sub>Convert EPUB, PDF, MOBI, AZW3 and more without uploading your books to anyone.</sub> | 9 | 9 | v1.0.0 | Coming soon |
-| **[PDF Editors & Annotators](lists/github-pdf-editors-final.md)**<br><sub>Annotate, merge, split, sign and fill PDF forms without subscriptions or watermarks.</sub> | 12 | 11 | v1.0.0 | Coming soon |
+| **[Ebook Format Converters](lists/github-ebook-format-converters-final.md)**<br><sub>Convert EPUB, PDF, MOBI, AZW3 and more without uploading your books to anyone.</sub> | 9 | 9 | v1.0.0 | 11-Sept-2026 |
+| **[PDF Editors & Annotators](lists/github-pdf-editors-final.md)**<br><sub>Annotate, merge, split, sign and fill PDF forms without subscriptions or watermarks.</sub> | 12 | 11 | v1.0.0 | 11-Sept-2026 |
 
 ### Writing
 
 | List | Tools | Open source | Version | Updated |
 |---|---:|---:|---|---|
-| **[Writing Software for Novelists](lists/github-novel-writing-software-final.md)**<br><sub>Find free tools for drafting, outlining, organising scenes and building long-form manuscripts.</sub> | 10 | 9 | v1.0.0 | Coming soon |
+| **[Writing Software for Novelists](lists/github-novel-writing-software-final.md)**<br><sub>Find free tools for drafting, outlining, organising scenes and building long-form manuscripts.</sub> | 10 | 9 | v1.0.0 | 11-Sept-2026 |
 
 <!-- LISTS:END -->
 
