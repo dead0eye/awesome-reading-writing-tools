@@ -209,28 +209,6 @@ No, and that is deliberate. Stripping DRM is illegal in many countries regardles
 
 Calibre if you want full control and conversion, Koodo Reader if Calibre feels like too much machinery for a few hundred books. Both import from a plain folder, so trying one does not lock you out of the other.
 
-## Changelog
-
-**v1.1.1** &mdash; 2026-09-11
-- Filled the Est. column - the year each project was established - which was blank on ten of eleven rows, from each project's repository history or its own release notes.
-- Three research-supplied years were corrected: Thorium Reader 2017, not 2019 (its repository dates from March 2017); GCstar 2006, not 2005 (its earliest record is its 2006 website and Debian packaging request); and Ubooquity 2013, not 2014 (its own release notes date version 1.2.0 to October 2013).
-- Tellico is recorded as 2001, when it shipped as Bookcase 0.1. It was renamed in 2004.
-
-**v1.1.0** &mdash; 2026-09-09
-- Full verification pass. Every homepage and every repository link opened and returning 200; every open source licence claim checked against the GitHub or GitLab API, and against the licence file itself where the API reported NOASSERTION.
-- BicBucStriim moved to Also consider: archived by its maintainer in July 2023, who directs users to community forks. It had been a main-table entry telling the reader to go and check the commit history themselves.
-- Readarr's downsides now state that the project is archived rather than asking the reader to check its status.
-- Koodo Reader's repository URL updated - the project moved to koodo-reader/koodo-reader and the old address only worked via a redirect.
-- signals blocks populated for all 14 entries that have a repository, from the hosting platform's API rather than by estimate.
-- Two claims checked and left alone: Zotero really is AGPL-3.0 (GitHub cannot detect a licence in a file named COPYING), and LibreOffice really is MPL-2.0 (its GitHub mirror mis-reports GPL-3.0).
-- externalLink set to the OPDS 1.2 specification and internalLink to an existing getfreeebooks.com post; both confirmed reachable.
-- Entry count corrected in the meta fields after the move to Also consider - they still claimed 12.
-- NOT verified: whether each application installs and runs, and whether any has changed its commercial terms while keeping its licence. That needs a person and a trial.
-
-**v1.0.0** &mdash; 2026-08-31
-- First publication with 12 tools plus 3 near-misses.
-- Seeded from internal research - every link, licence and release year still needs human verification before publishing.
-
 ---
 
 Found something missing or out of date? [Open an issue](https://github.com/dead0eye/awesome-reading-writing-tools/issues) or see [CONTRIBUTING](../CONTRIBUTING.md).  
