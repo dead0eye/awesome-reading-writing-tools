@@ -227,23 +227,6 @@ Readers like Koodo Reader, Readest, and Anx Reader support cloud synchronization
 
 No. Every application in this guide respects digital rights management and is designed strictly to read DRM-free books or openly licensed formats like EPUB 3. Bypassing DRM is restricted by copyright laws in many jurisdictions, so none of these tools include decryption features.
 
-## Changelog
-
-**v1.1.1** &mdash; 2026-09-11
-- Est. column: Thorium Reader corrected from 2019 to 2017, the year its repository was started - it now matches the Ebook Management Apps list.
-
-**v1.1.0** &mdash; 2026-09-09
-- Full verification pass. Every homepage and repository link opened and returning 200; every open source licence claim checked against the GitHub or GitLab API.
-- internalLink replaced. It pointed at getfreeebooks.com/ebook-management-apps, which returns 404 - that list has not been published yet, so the link would have shipped broken. It now points at an existing post on the site.
-- epy's downsides rewritten to match the evidence: the last tagged release was December 2022 and the last commit March 2024. The previous wording said releases and commits had both stalled since 2023, which understated the commits and overstated the releases.
-- signals blocks populated or refreshed for all 15 entries that have a repository, from the hosting platform's API rather than by estimate.
-- All twelve licence claims verified correct, including the two KDE projects, which use REUSE-style multi-licensing - the stated licence is the primary one for each.
-- NOT verified: whether each application installs and runs, and whether any has changed its terms while keeping its licence. That needs a person and a trial.
-
-**v1.0.0** &mdash; 2026-09-08
-- First publication with 12 desktop ebook readers plus 4 near-misses.
-- Seeded from verified repository research covering cross-platform, Linux-native, Windows-lightweight, comic-specialist, and CLI tools.
-
 ---
 
 Found something missing or out of date? [Open an issue](https://github.com/dead0eye/awesome-reading-writing-tools/issues) or see [CONTRIBUTING](../CONTRIBUTING.md).  
