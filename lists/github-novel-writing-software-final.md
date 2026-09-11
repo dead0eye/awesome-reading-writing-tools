@@ -191,31 +191,6 @@ FocusWriter is the simplest choice when drafting itself is the priority. Quoll W
 
 Yes, although the publishing workflow differs by tool. novelWriter supports manuscript builds and DocX export, Zettlr can hand work off to Pandoc and other publishing pipelines, and several other entries support common document exports.
 
-## Changelog
-
-**v1.3.1** &mdash; 2026-09-11
-- oStorybook: filled the Est. column with 2013, the year its original SourceForge project was registered. Its current Framagit history only begins in 2024.
-
-**v1.3.0** &mdash; 2026-09-10
-- Added Ghostwriter (GPL-3.0, KDE) and novelibre (GPL-3.0), taking the main table to ten. Both were added because two existing entries currently have no working download, and a reader should not lose a quarter of the list to outages.
-- Quoll Writer: corrected advice that did not work. The previous note said to download from GitHub instead of the website; all 30 GitHub releases are source tags with no attached files, so there is no build to download there either. Dated the outage against the Internet Archive - last good capture 7 June 2026.
-- yWriter: removed the claim that the site was updated in August 2026, which could not be checked from any reachable source. The outage is now dated to at least 5 September 2026, corroborated by an Internet Archive capture returning the same server error.
-- Ghostwriter's GitHub releases page stops at 2.1.6 in 2022 and reads as abandoned; the project moved to KDE's release cycle and shipped 26.04.3 via Flathub in July 2026. Recorded in the entry so the stale releases page does not mislead.
-
-**v1.2.0** &mdash; 2026-09-09
-- Full verification pass. Every homepage and repository link opened; every licence claim checked against the GitHub or GitLab API.
-- Two websites were unreachable at the time of checking and both entries now say so: quollwriter.com did not respond, and spacejock.com (yWriter) returned a server error across the whole domain. Neither project is declared dead - yWriter in particular appears current - but a reader should not meet a broken link without warning.
-- bibisco Community Edition: last commit September 2024. Noted, since active development has moved to the paid edition and the free one is what this list recommends.
-- internalLink added - the field was empty, which is a publishing gate.
-- signals blocks populated for the 7 entries with a repository.
-- NOT verified: whether any of these install and run, and whether the two unreachable sites recover. Both need re-checking before publication.
-
-**v1.1.0** &mdash; 2026-09-08
-- Verified the populated entries against current official websites and public repositories.
-- Corrected the intro so the first sentence contains the exact focus keyword verbatim.
-- Corrected maintenance wording for Manuskript and yWriter and updated oStorybook to its current v6 source repository.
-- Removed Plume Creator because its supplied project domain currently resolves to unrelated content, and did not pad the list with an unverified alternative.
-
 ---
 
 Found something missing or out of date? [Open an issue](https://github.com/dead0eye/awesome-reading-writing-tools/issues) or see [CONTRIBUTING](../CONTRIBUTING.md).  
