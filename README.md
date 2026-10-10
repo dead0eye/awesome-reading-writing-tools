@@ -20,7 +20,7 @@ Comparison lists of free and open source software for reading, writing, converti
 
 | List | Tools | Open source | Version | Updated |
 |---|---:|---:|---|---|
-| **[Ebook Management Apps](lists/github-ebook-management-apps-final.md)**<br><sub>Organise, tag, convert and sync a personal ebook library without paying anyone.</sub> | 11 | 10 | v1.1.1 | 11-Sept-2026 |
+| **[Ebook Management Apps](lists/github-ebook-management-apps-final.md)**<br><sub>Organise, tag, convert and sync a personal ebook library without paying anyone.</sub> | 12 | 11 | v1.1.2 | 10-Oct-2026 |
 
 ### Reading
 

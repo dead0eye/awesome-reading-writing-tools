@@ -2,7 +2,7 @@
 
 > Organise, tag, convert and sync a personal ebook library without paying anyone.
 
-`11 tools` &nbsp;&middot;&nbsp; `v1.1.1` &nbsp;&middot;&nbsp; `updated 2026-09-11` &nbsp;&middot;&nbsp; `10 open source`
+`12 tools` &nbsp;&middot;&nbsp; `v1.1.2` &nbsp;&middot;&nbsp; `updated 2026-10-10` &nbsp;&middot;&nbsp; `11 open source`
 
 [&larr; back to the index](../README.md)
 
@@ -36,6 +36,7 @@ Pick based on where you want the library to live, not on the feature list. Almos
 | 9 | **[Tellico](https://tellico-project.org/)** | Cataloguing what you own rather than managing files | Linux | [GPL-2.0](https://invent.kde.org/office/tellico) | 2001 |
 | 10 | **[GCstar](https://gitlab.com/GCstar/GCstar)** | A single catalogue covering books alongside other collections | Win &middot; Linux | [GPL-2.0](https://gitlab.com/GCstar/GCstar) | 2006 |
 | 11 | **[Ubooquity](https://vaemendis.net/ubooquity/)** | A zero-configuration server for a folder you do not want reorganised | Self-host &middot; Web | Freeware | 2013 |
+| 12 | **[Nostos](https://github.com/Christian-Gennari/Nostos)** | Self-hosted personal library and quiet study connecting books with reading notes | Self-host &middot; Web | [GPL-3.0](https://github.com/Christian-Gennari/Nostos) | 2025 |
 
 <sub>Licence links point at the source repository. `Freeware` means free to use but not open source.</sub>
 
@@ -183,6 +184,17 @@ A zero-configuration server for a folder you do not want reorganised
 **Less good** &mdash; Closed source, so the licence and privacy claims cannot be independently verified; Sparse metadata handling compared with Kavita or Komga
 
 The one non-open-source entry on this list, included because nothing open source is quite as effortless to start. Flagged clearly so you can rule it out if that matters to you.
+
+### 12. Nostos
+
+**Platforms** Self-hosted, Web &nbsp;&middot;&nbsp; **Licence** GPL-3.0 &nbsp;&middot;&nbsp; **Cost** Free &nbsp;&middot;&nbsp; **Established** 2025  
+[Homepage](https://nostos.page) &nbsp;&middot;&nbsp; [Source](https://github.com/Christian-Gennari/Nostos)
+
+Self-hosted personal library and quiet digital study connecting books with reading notes
+
+**Good** &mdash; Combines ebook and audiobook cataloguing with built-in EPUB/PDF readers, OPDS export, and notes tied directly to book editions; Zero tracking or cloud accounts
+
+**Less good** &mdash; Requires Docker or .NET to self-host; Newer project compared to established giants like Calibre
 
 ## Also worth knowing
 
