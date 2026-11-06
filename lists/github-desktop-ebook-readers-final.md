@@ -198,6 +198,10 @@ Terminal and keyboard enthusiasts who want to read EPUBs without leaving the com
 
 For developers, sysadmins, and writers who spend their entire working day inside a terminal, opening a heavyweight graphical app just to read a book is disruptive. epy runs directly in your shell, preserves reading progress across sessions, and lets you read without ever taking your fingers off the keyboard. Development has gone quiet, so users on Python 3.13+ currently need to install the standard-imghdr backport package manually to keep it running.
 
+## Also consider: early projects
+
+- **[Folio](https://github.com/Kumar-Aditya3/Folio)** — **Platforms:** Windows x64, with an Android companion preview. **Licence:** [Apache-2.0](https://github.com/Kumar-Aditya3/Folio/blob/main/LICENSE). **Cost:** Free. A local-first EPUB and document reader with adjustable typography, highlights, notes, and reading activity. **Downsides:** Early development, an unsigned Windows preview, no Linux or macOS runtime support, and optional cloud sync requires the reader’s own Firebase configuration. [Portable Windows download](https://github.com/Kumar-Aditya3/Folio/releases/tag/windows-v1.0.38).
+
 ## Also worth knowing
 
 - **[Calibre E-book Viewer](https://calibre-ebook.com/)** &mdash; Full-featured reading when you already use Calibre for library management (GPL-3.0)
